@@ -4,4 +4,4 @@ Ergogen is a keyboard generator that aims to provide a common configuration form
 
 For usage and config information, please refer to the [docs](https://docs.ergogen.xyz).
 
-Fork of a [ergogen](https://github.com/benvallack/ergogen) by @benvallack
+Fork of a [ergogen](https://github.com/benvallack/ergogen) by [@benvallack](https://github.com/benvallack)
